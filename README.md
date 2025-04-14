@@ -1,2 +1,2 @@
-# quiz-grader
-Tool used for science fair. A tool used to help teacher(s) grading score in real quick and generate reports data.
+# Quiz-Grader
+一个科学展项目，帮助老师快速批改学生的试卷，并生成相关成绩和报告。
